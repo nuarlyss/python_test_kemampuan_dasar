@@ -10,4 +10,4 @@ def usd2eur(usd):
   value = EUR
   return value
  
-print(usd2eur(1000))
+print(usd2eur(100))
