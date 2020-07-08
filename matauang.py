@@ -1,3 +1,4 @@
+#konversi mata uang usd2eur
 
 dmatauang2idr = {'IDR': 1, 'USD': 14425, 'EUR': 16225}
  
